@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\bin\Debug\TEXT_RPG-.exe.config
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\bin\Debug\TEXT_RPG-.exe
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\bin\Debug\TEXT_RPG-.pdb
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.exe
+C:\Users\User\source\repos\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.pdb
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\bin\Debug\TEXT_RPG-.exe.config
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\bin\Debug\TEXT_RPG-.exe
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\bin\Debug\TEXT_RPG-.pdb
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.exe
+C:\Users\user\Source\Repos\SNG-CLUB\TEXT_RPG-\TEXT_RPG-\obj\Debug\TEXT_RPG-.pdb
